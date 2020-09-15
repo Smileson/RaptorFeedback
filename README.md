@@ -1,4 +1,4 @@
-# Arduino RaptorFeedback
+# RaptorFeedback
 ===========================================
 
 ## Description
